@@ -19,7 +19,7 @@
  
 2. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-3. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Npm-maishook-package/deploye.git)
+3. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Maishook2/RDX?organization=Maishook2&organization=Maishook2
      
 
 4.This method not working click [Whtsapp Number](https://wa.me/qr/CYBN2KFKQTAIN1) Save my number and message me 
